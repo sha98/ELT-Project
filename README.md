@@ -10,3 +10,6 @@
 
 ## Too Hard To Follow
 use the link for detailed installation--->(https://docs.getdbt.com/docs/core/pip-install)
+
+### This project is built by -->(https://github.com/justinbchau) 
+### You can see project Development at-->(https://www.youtube.com/watch?v=PHsC_t0j1dU)
